@@ -30,7 +30,7 @@ This dashboard was built using **Power BI Desktop** and DAX to analyze electric 
 -  **User Segmentation**  
   Grouped into Mainstream, Early End Users, and High-End Users based on Electric Range.
 
-## 📁 Dataset Details
+## Dataset Details
 
 - Source: Kaggel
 - Key Columns:
